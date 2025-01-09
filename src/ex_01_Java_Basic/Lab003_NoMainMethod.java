@@ -8,5 +8,5 @@ public class Lab003_NoMainMethod {
 
 //    public static void main (){
 //        System.out.println("2nd main method without string args. only this is allowed");
-    }
-//}
+//    }
+}
